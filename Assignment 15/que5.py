@@ -1,0 +1,1 @@
+# write a lambda function using map() which accepts a list of numbers and returns the maximum elements.
