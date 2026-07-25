@@ -11,33 +11,17 @@ import shutil
 import time
 import datetime
 
-def CreateBackupFile(Directory,SourceFileName):
+def CreateBackupFile(DirectoryPath="Backup"):
     Border = "-" * 40
     timestamp = time.ctime()
 
-    
-
-
-    LogFileName = f"{SourceFileName}_{timestamp}.log"
+    LogFileName = f"{Marvellous}_{timestamp}.txt"
     LogFileName = LogFileName.replace(" ","_")
     LogFileName = LogFileName.replace(":","_")
 
-   
+    DestinationFile= os.path.join(DirectoryPath,LogFileName)
 
-    Ret = False
-    Ret = os.path.exists(Directory)
-
-    if(Ret == False):
-        print("Automation Error:There is no such directory with name",Directory)
-        return
-
-    Ret = os.path.isdir(Directory) #isdir inbuilt function
-
-    if(Ret == False):
-        print("Automation Error : It is not a directory with name")
-        return
-
-    print("Log File gets created with file name : ",LogFileName)
+    shutil.copy("Marvellous.txt",DestinationFile)
 
     fobj = open(LogFileName,"w")
 
@@ -48,8 +32,6 @@ def CreateBackupFile(Directory,SourceFileName):
     fobj.write("File Backup \n\n")
     fobj.write(Border + "\n")
 
-    shutil.copy(SourceFileName,Directory)
-
     fobj.write(Border + "\n")
     fobj.write("Log File gets created at : "+timestamp)
     fobj.write("\n"+ Border + "\n")
@@ -57,9 +39,7 @@ def CreateBackupFile(Directory,SourceFileName):
     fobj.close()
 
 def main():
-    f1 = (sys.argv[1])
-    f2 = (sys.argv[2])
-
+    
     CreateBackupFile(f1,f2)
 
 if __name__ == "__main__":
