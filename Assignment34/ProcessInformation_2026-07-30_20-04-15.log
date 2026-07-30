@@ -1,0 +1,1069 @@
+--------------------------------------------------
+-----Platform Survellience System-----
+Log file gets created at : 2026-07-30_20-04-15
+--------------------------------------------------
+
+---------------System Report------------------
+PID : 0
+Name : System Idle Process
+User Name : NT AUTHORITY\SYSTEM
+--------------------------------------------------
+PID : 4
+Name : System
+User Name : NT AUTHORITY\SYSTEM
+--------------------------------------------------
+PID : 188
+Name : 
+User Name : None
+--------------------------------------------------
+PID : 232
+Name : Registry
+User Name : None
+--------------------------------------------------
+PID : 408
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 752
+Name : PushNotificationsLongRunningTask.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 840
+Name : smss.exe
+User Name : None
+--------------------------------------------------
+PID : 996
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1092
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1100
+Name : csrss.exe
+User Name : None
+--------------------------------------------------
+PID : 1184
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1188
+Name : wininit.exe
+User Name : None
+--------------------------------------------------
+PID : 1232
+Name : AdobeCollabSync.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 1268
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1288
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 1296
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 1332
+Name : services.exe
+User Name : None
+--------------------------------------------------
+PID : 1344
+Name : LsaIso.exe
+User Name : None
+--------------------------------------------------
+PID : 1360
+Name : lsass.exe
+User Name : None
+--------------------------------------------------
+PID : 1508
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1544
+Name : fontdrvhost.exe
+User Name : None
+--------------------------------------------------
+PID : 1556
+Name : WUDFHost.exe
+User Name : None
+--------------------------------------------------
+PID : 1584
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1672
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1724
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1768
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1816
+Name : taskhostw.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 1876
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1884
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1908
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1920
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 1992
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 2024
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2108
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2116
+Name : IntelCpHDCPSvc.exe
+User Name : None
+--------------------------------------------------
+PID : 2132
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2152
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2208
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2244
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2280
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2448
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2468
+Name : HPSystemEventUtilityHost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 2476
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2532
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 2612
+Name : WUDFHost.exe
+User Name : None
+--------------------------------------------------
+PID : 2644
+Name : audiodg.exe
+User Name : None
+--------------------------------------------------
+PID : 2732
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 2804
+Name : WUDFHost.exe
+User Name : None
+--------------------------------------------------
+PID : 2984
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 3012
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3120
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3128
+Name : RtkAudUService64.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 3136
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3192
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3196
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3208
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3324
+Name : CrossDeviceResume.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 3356
+Name : MemCompression
+User Name : None
+--------------------------------------------------
+PID : 3432
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3500
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3516
+Name : DiagsCap.exe
+User Name : None
+--------------------------------------------------
+PID : 3524
+Name : NetworkCap.exe
+User Name : None
+--------------------------------------------------
+PID : 3532
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3544
+Name : TouchpointAnalyticsClientService.exe
+User Name : None
+--------------------------------------------------
+PID : 3552
+Name : AppHelperCap.exe
+User Name : None
+--------------------------------------------------
+PID : 3672
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3696
+Name : OmenInstallMonitor.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 3756
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3792
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 3980
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 4240
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 4280
+Name : mc-fw-host.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 4404
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 4488
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 4496
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 4564
+Name : unsecapp.exe
+User Name : None
+--------------------------------------------------
+PID : 4652
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 4692
+Name : WmiPrvSE.exe
+User Name : None
+--------------------------------------------------
+PID : 4832
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 4844
+Name : spoolsv.exe
+User Name : None
+--------------------------------------------------
+PID : 4868
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 4912
+Name : AcrobatNotificationClient.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 4920
+Name : NgcIso.exe
+User Name : None
+--------------------------------------------------
+PID : 5048
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5096
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5140
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5216
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5320
+Name : armsvc.exe
+User Name : None
+--------------------------------------------------
+PID : 5328
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5336
+Name : nssm.exe
+User Name : None
+--------------------------------------------------
+PID : 5348
+Name : OneApp.IGCC.WinService.exe
+User Name : None
+--------------------------------------------------
+PID : 5356
+Name : HPCommRecovery.exe
+User Name : None
+--------------------------------------------------
+PID : 5364
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5372
+Name : ETDService.exe
+User Name : None
+--------------------------------------------------
+PID : 5380
+Name : jhi_service.exe
+User Name : None
+--------------------------------------------------
+PID : 5392
+Name : IntelAudioService.exe
+User Name : None
+--------------------------------------------------
+PID : 5400
+Name : ipfsvc.exe
+User Name : None
+--------------------------------------------------
+PID : 5444
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5452
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5460
+Name : ipf_uf.exe
+User Name : None
+--------------------------------------------------
+PID : 5508
+Name : MpDefenderCoreService.exe
+User Name : None
+--------------------------------------------------
+PID : 5528
+Name : SECOMN64.exe
+User Name : None
+--------------------------------------------------
+PID : 5536
+Name : RtkAudUService64.exe
+User Name : None
+--------------------------------------------------
+PID : 5544
+Name : mc-fw-host.exe
+User Name : None
+--------------------------------------------------
+PID : 5556
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5568
+Name : RtkBtManServ.exe
+User Name : None
+--------------------------------------------------
+PID : 5604
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5612
+Name : mongod.exe
+User Name : None
+--------------------------------------------------
+PID : 5640
+Name : CrossDeviceService.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 5768
+Name : WMIRegistrationService.exe
+User Name : None
+--------------------------------------------------
+PID : 5776
+Name : MsMpEng.exe
+User Name : None
+--------------------------------------------------
+PID : 5888
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 5916
+Name : CastSrv.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 6120
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 6248
+Name : dasHost.exe
+User Name : None
+--------------------------------------------------
+PID : 6268
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 6316
+Name : expressvpnd.exe
+User Name : None
+--------------------------------------------------
+PID : 6356
+Name : FileCoAuth.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 6604
+Name : conhost.exe
+User Name : None
+--------------------------------------------------
+PID : 6776
+Name : RuntimeBroker.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 7060
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 7064
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 7372
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 7564
+Name : svchost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 7748
+Name : RtkAudUService64.exe
+User Name : None
+--------------------------------------------------
+PID : 8336
+Name : NisSrv.exe
+User Name : None
+--------------------------------------------------
+PID : 8452
+Name : cmd.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 8464
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 8524
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 8724
+Name : pet.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 8796
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 8800
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 8836
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 8896
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 8916
+Name : RuntimeBroker.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 9012
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 9052
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 9144
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 9192
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 9236
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 9400
+Name : HPSystemEventUtilityBackground.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 9516
+Name : SearchProtocolHost.exe
+User Name : None
+--------------------------------------------------
+PID : 9588
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 9592
+Name : winlogon.exe
+User Name : None
+--------------------------------------------------
+PID : 9624
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 10012
+Name : RuntimeBroker.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 10068
+Name : RuntimeBroker.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 10112
+Name : cmd.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 10192
+Name : RuntimeBroker.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 10276
+Name : powershell.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 10364
+Name : browserhost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 10380
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 10476
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 10756
+Name : AggregatorHost.exe
+User Name : None
+--------------------------------------------------
+PID : 10784
+Name : WidgetService.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 10876
+Name : UserOOBEBroker.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 11012
+Name : uihost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 11516
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 11636
+Name : RuntimeBroker.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 11756
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 11772
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 11784
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 11972
+Name : dasHost.exe
+User Name : None
+--------------------------------------------------
+PID : 12088
+Name : conhost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 12096
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 12100
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 12252
+Name : conhost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 12296
+Name : svchost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 12392
+Name : svchost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 12668
+Name : WmiApSrv.exe
+User Name : None
+--------------------------------------------------
+PID : 12684
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 12724
+Name : SECOCL64.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 13104
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 13188
+Name : servicehost.exe
+User Name : None
+--------------------------------------------------
+PID : 13496
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 13556
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 13888
+Name : ShellExperienceHost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 14060
+Name : pet.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 14396
+Name : OmenCommandCenterBackground.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 14436
+Name : ipf_helper.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 14476
+Name : MoNotificationUx.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 14856
+Name : powershell.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 14912
+Name : conhost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 14956
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 15036
+Name : mc-neo-host.exe
+User Name : None
+--------------------------------------------------
+PID : 15068
+Name : unsecapp.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 15096
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 15160
+Name : StartMenuExperienceHost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 15224
+Name : OpenConsole.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 15304
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 15824
+Name : WmiPrvSE.exe
+User Name : None
+--------------------------------------------------
+PID : 15932
+Name : DesktopExtension.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 16088
+Name : OneDrive.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 16288
+Name : SysInfoCap.exe
+User Name : None
+--------------------------------------------------
+PID : 16440
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 16480
+Name : SearchHost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 16620
+Name : explorer.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 16932
+Name : SecurityHealthService.exe
+User Name : None
+--------------------------------------------------
+PID : 16960
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 17068
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 17108
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 17232
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 17372
+Name : conhost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 17388
+Name : PhoneExperienceHost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 17444
+Name : mc-extn-browserhost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 17556
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 17688
+Name : TextInputHost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 17832
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 17932
+Name : FileSyncHelper.exe
+User Name : None
+--------------------------------------------------
+PID : 17980
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 18000
+Name : svchost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 18088
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 18208
+Name : HPMediaNetwork.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 18260
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 18348
+Name : cmd.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 18484
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 18552
+Name : Widgets.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 18584
+Name : svchost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 19156
+Name : SearchIndexer.exe
+User Name : None
+--------------------------------------------------
+PID : 19164
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 19396
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 19616
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 19724
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 19924
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 19960
+Name : python.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 20040
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 20296
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 20960
+Name : HP.HPX.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21028
+Name : OpenConsole.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21052
+Name : fontdrvhost.exe
+User Name : None
+--------------------------------------------------
+PID : 21068
+Name : svchost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21136
+Name : ETDCtrl.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21260
+Name : SecurityHealthSystray.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21340
+Name : OverlayHelper.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21624
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21708
+Name : LockApp.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21780
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 21796
+Name : AdobeCollabSync.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 22148
+Name : ExpressVPNNotificationService.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 22164
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 22572
+Name : OfficeClickToRun.exe
+User Name : None
+--------------------------------------------------
+PID : 23308
+Name : conhost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 23680
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 23796
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 23852
+Name : WindowsTerminal.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 23964
+Name : conhost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 24044
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 24096
+Name : svchost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 24488
+Name : dwm.exe
+User Name : None
+--------------------------------------------------
+PID : 24492
+Name : AppActions.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 24600
+Name : OneDrive.Sync.Service.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 24696
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 24892
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 24896
+Name : ctfmon.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 24952
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 25016
+Name : svchost.exe
+User Name : None
+--------------------------------------------------
+PID : 25180
+Name : OpenConsole.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 25192
+Name : sihost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 25224
+Name : chrome.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 25316
+Name : SDXHelper.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 25416
+Name : msedgewebview2.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 25656
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 26028
+Name : csrss.exe
+User Name : None
+--------------------------------------------------
+PID : 26064
+Name : Code.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+PID : 26232
+Name : ShellHost.exe
+User Name : LAPTOP-CCA81QQ0\shrav
+--------------------------------------------------
+--------------------------------------------------
+-------------End of Log File-------------------
+--------------------------------------------------
